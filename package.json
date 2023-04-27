@@ -1,11 +1,11 @@
 {
     "name": "@matheus-rodrigues00/sanitize",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "description": "Sanitize a string to remove sql queries",
     "license": "MIT",
     "repository": "matheus-rodrigues00/sanitize",
     "main": "index.js",
     "keywords": [
-      "sanitize"
+        "sanitize"
     ]
-  }
+}
